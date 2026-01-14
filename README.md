@@ -1,7 +1,8 @@
 # Nova Tech Club, Head of Tech and Innovation
 
-- Official LinkedIn page: https://www.linkedin.com/company/nova-sbe-tech-club/posts/?feedView=all  
-- Official GitHub organization and repositories: https://github.com/orgs/novatechclub/repositories
+- 🌐 Official website: https://techclubnova.com
+- 💼 Official LinkedIn page: https://www.linkedin.com/company/nova-sbe-tech-club
+- 💻 Official GitHub organization: https://github.com/orgs/novatechclub
 
 This repository documents my role as Head of Tech and Innovation at the Nova Tech Club at NOVA School of Business and Economics.
 
